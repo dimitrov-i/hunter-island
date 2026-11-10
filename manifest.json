@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Hunter Island",
+  "short_name": "Hunter Island",
+  "description": "A board game of treasure, resources and chance.",
+  "author": "Ivan Dimitrov",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#440154",
+  "background_color": "#f8f7fc",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

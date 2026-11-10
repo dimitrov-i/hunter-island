@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="840" viewBox="55 173 145 149">
+
+<metadata id="metadata-author">
+  <rdf:RDF
+    xmlns:rdf="http://w3.org"
+    xmlns:dc="http://purl.org">
+    <rdf:Description rdf:about="">
+      <dc:creator>
+        <rdf:Bag>
+          <rdf:li>Ivan Dimitrov</rdf:li>
+        </rdf:Bag>
+      </dc:creator>
+      <dc:title>Triplet of nested letters D, merging at the bottom left. Hunter Island decorative elements on top.</dc:title>
+      <dc:date>2001</dc:date>
+    </rdf:Description>
+  </rdf:RDF>
+</metadata>
+
+<title id="title">Curious Current</title>
+<desc id="desc">Soft shores, a clear crossing and one playful curling wave. Original nested D letters preserved. No lettering added.</desc>
+<g
+   id="layer1">
+  <!-- Outer D (Largest) -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.111px;font-family:sans-serif;writing-mode:lr-tb;direction:ltr;display:inline;fill:#440154;stroke:#440154;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     x="76.034729"
+     y="290.64734"
+     id="text2"
+     transform="scale(0.99278483,1.0072676)"><tspan
+       id="tspan2"
+       x="76.034729"
+       y="290.64734"
+       style="font-size:141.111px;fill:#440154;stroke:#440154;stroke-width:0">D</tspan></text>
+  <!-- Middle D (Adjusted for symmetrical spacing and stroke) -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.833px;font-family:sans-serif;writing-mode:lr-tb;direction:ltr;display:inline;fill:#440154;stroke:#440154;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+     x="80.212151"
+     y="288.66095"
+     id="text2-6"
+     transform="scale(0.99278483,1.0072676)"><tspan
+       id="tspan2-1"
+       x="80.212151"
+       y="288.66095"
+       style="font-size:105.833px;fill:#440154;stroke:#440154;stroke-width:1.5">D</tspan></text>
+  <!-- Inner D (Adjusted for symmetrical spacing and stroke) -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;fill:#440154;stroke:#440154;stroke-width:3.5;stroke-dasharray:none;stroke-opacity:1"
+     x="84.736633"
+     y="286.4837"
+     id="text2-6-4"
+     transform="scale(0.99175171,1.0083169)"><tspan
+       id="tspan2-1-4"
+       x="84.736633"
+       y="286.4837"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#440154;stroke:#440154;stroke-width:3.5;stroke-dasharray:none">D</tspan></text>
+</g>
+<g id="coast-and-sea" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6">
+ <g id="island-outlines" stroke="#5ec962">
+  <path d="M78 185 C77 189 72 191 73 195 C73 198 77 198 76 201 C75 204 70 204 71 208 C72 211 75 212 73 215 C71 218 67 218 69 222 L72 227"/>
+  <path d="M184 211 C186 214 191 217 190 220 C189 223 184 224 186 228 C187 231 191 231 188 235 C185 238 182 239 184 243 C186 247 182 252 179 258"/>
+ </g>
+ <g id="waves" stroke="#21918c">
+  <path d="M61 266q4-6 8-2t8 0"/>
+  <path d="M103 303q4 5 8 1t8 1t8-1t8 1"/>
+  <path d="M149 302q4-5 8-1t8 0 C170 296 176 298 175 302 C174 305 170 304 171 302"/>
+ </g>
+ <g id="deeper-water" stroke="#3b528b"><path d="M63 278q4-6 8-2t8 0"/><path d="M147 310q4-5 8-1t8 0t8 1"/></g>
+</g>
+<defs><mask id="trail-underpass" maskUnits="userSpaceOnUse" x="59" y="175" width="137" height="147"><rect x="59" y="175" width="137" height="147" fill="white"/><ellipse cx="143.5" cy="251.5" rx="3.6" ry="4.4" fill="black"/></mask></defs>
+<g id="golden-route" fill="none" stroke="#fde725" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M96 195 C115 192 130 198 140 210 C148 220 148 232 146 244 C144 254 135 261 125 260 C115 260 113 254 117 246 C121 237 130 231 137 235 " stroke-dasharray="2.1 3.6" mask="url(#trail-underpass)"/>
+ <path d="M137 235 C143 238 144 247 143 258 C143 274 137 282 122 286 C110 288 98 287 96 283 L94 274" stroke-dasharray="2.1 3.6"/>
+ <path id="treasure-x" d="M89 263l8 8m0-8l-8 8"/>
+</g>
+<g id="waypoints" fill="#fbfaf4" stroke="#5ec962" stroke-width="1.1"><circle cx="95" cy="195" r="1.8"/><path d="M141 268l3 3-3 3-3-3Z" fill="#5ec962" stroke="#440154" stroke-width=".7"/></g>
+<g id="compass" transform="translate(166 201)">
+ <circle r="8.1" fill="#fbfaf4" stroke="#21918c" stroke-width="1.1"/>
+ <path d="M-6-6L0-3 6-6 3 0 6 6 0 3-6 6-3 0Z" fill="#5ec962"/>
+ <path d="M0-15L3-3 15 0 3 3 0 15-3 3-15 0-3-3Z" fill="#21918c"/>
+ <path d="M0-15V0H15L3-3Z" fill="#3b528b"/>
+ <circle r="2.5" fill="#fde725"/>
+</g>
+</svg>
